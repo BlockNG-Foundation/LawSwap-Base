@@ -10,7 +10,7 @@
   },
   {
     "address": "",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Base/main/tokens/0x4200000000000000000000000000000000000006.png",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Base/main/tokens/eth.svg",
     "name": "ETH",
     "symbol": "ETH",
     "decimals": 18
