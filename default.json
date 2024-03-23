@@ -1,7 +1,7 @@
 [
   {
     "address": "0xF76841B0EA13e4c2EA15C0012Eb52c38F1668943",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0xF76841B0EA13e4c2EA15C0012Eb52c38F1668943.svg",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Base/main/tokens/0xF76841B0EA13e4c2EA15C0012Eb52c38F1668943.svg",
     "name": "LAWTOKEN",
     "symbol": "LAW",
     "decimals": 18,
@@ -10,7 +10,7 @@
   },
   {
     "address": "",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x4200000000000000000000000000000000000006.png",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Base/main/tokens/0x4200000000000000000000000000000000000006.png",
     "name": "ETH",
     "symbol": "ETH",
     "decimals": 18
@@ -20,14 +20,14 @@
     "address": "0x716a3483d3069d2a30515Bb95cF5DA0913edD823",
     "symbol": "lawETP",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x716a3483d3069d2a30515Bb95cF5DA0913edD823.svg",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Base/main/tokens/0x716a3483d3069d2a30515Bb95cF5DA0913edD823.svg",
     "websites": ["https://blockng.money/"],
     "telegram": "https://t.me/BlockNGGlobal",
     "desc": "The universe is destined for thermodynamic equilibrium — maximum entropy."
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x4200000000000000000000000000000000000006.png",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Base/main/tokens/0x4200000000000000000000000000000000000006.png",
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18
